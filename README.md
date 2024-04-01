@@ -1,6 +1,7 @@
 # 404 Page
 ![GitHub last commit](https://img.shields.io/github/last-commit/marpisco/404-page)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/marpisco/404-page)
+![GitHub languages](https://img.shields.io/github/languages/top/marpisco/404-page)
 
 Simple pages for 404 and 403 errors on webservers. To replace the janky old and ugly default [Nginx](https://github.com/nginx/nginx) pages.
 ![](https://blog.adriaan.io/images/posts/nginx-error-page/404-default.png)
